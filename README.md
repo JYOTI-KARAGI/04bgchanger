@@ -1,16 +1,23 @@
-<<<<<<< HEAD
-# React + Vite
+Background Color Changer - React + TailwindCSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple and visually engaging project built with **React** and **TailwindCSS**. It lets users change the background color of the screen using **pastel color buttons**. The project is ideal for beginners learning state management in React and styling with Tailwind.
 
-Currently, two official plugins are available:
+---
+ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-  Built with **React Functional Components**
+-  Uses **useState Hook** to manage color state
+-  Stylish **pastel color palette** with `oklch()` color model
+-  Responsive UI using **Tailwind CSS**
+-  Interactive buttons to change the background color in real-time
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# background-changer-React.js
->>>>>>> 681a607ea14d2e601ad74df729bf3c49c7ae207f
+##  Tech Stack
+
+- **React**
+- **Tailwind CSS**
+- **JavaScript**
+- **Vite (Optional for faster development)**
+
+
